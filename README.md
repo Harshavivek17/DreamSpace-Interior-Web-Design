@@ -3,9 +3,7 @@ I completed an internship as a UI/UX designer at Brain Quest Company, located in
 
 Working Platform : Wix Studio
 
-My journey in Web design and development has been diverse and enriching. I previously completed an internship as a UI/UX designer at Brain Quest Company in the UAE, which provided me with invaluable hands-on experience and deepened my understanding of user-centric design.
-
-​Through this space, I share my journey, experiences, and the projects I'm passionate about. Take a look around to get to know me and my work better. Let's connect and create something amazing together!
+I worked on a project called Dreamspace, an interior web design that features a fully responsive design. This project showcases my ability to create adaptable and user-friendly interfaces that provide an optimal viewing experience across a wide range of devices.
 
 👇
 https://brainquestdesigners.wixstudio.io/dreamspace-interior
